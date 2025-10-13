@@ -19,3 +19,4 @@ Chat with Ollama/OpenRouter/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neov
 # drop an unused branch
 # avoid re-reading the config on every call
 # drop an unused branch
+# avoid re-reading the config on every call
